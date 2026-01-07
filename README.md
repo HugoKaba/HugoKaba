@@ -52,8 +52,9 @@ My toolkit for building and shipping products.
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugoKaba&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoKaba&layout=compact&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoKaba&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoKaba&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br />
